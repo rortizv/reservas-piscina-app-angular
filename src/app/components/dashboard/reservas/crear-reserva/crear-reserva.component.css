@@ -1,0 +1,16 @@
+.ancho {
+    width: 80%;
+}
+
+.userCard {
+    margin-top: 10px;
+    width: auto;
+}
+
+.myInputs {
+    max-width: 500px;
+}
+
+button {
+    margin: 5px;
+}
