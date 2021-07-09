@@ -1,5 +1,9 @@
 # PiscinaAppFront
 
+Esta app es para el control de reserva de turnos de una piscina de cualquier conjunto residencial de propiedad horizontal.
+
+Front desarrollado en Angular | TypeScript.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.1.1.
 
 ## Development server
